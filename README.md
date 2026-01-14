@@ -38,3 +38,13 @@ Anomaly Detection
 Feature Engineering from PCAP
 Supervised & Unsupervised ML
 IDS Architecture Design
+
+
+
+#Proposed Enhancements and further works
+
+Use NSL-KDD / CICIDS2017 datasets
+Real-time socket sniffing
+Web dashboard (Flask)
+Model comparison report
+Precision/Recall evaluation
